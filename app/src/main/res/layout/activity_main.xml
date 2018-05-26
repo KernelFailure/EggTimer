@@ -40,6 +40,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="20dp"
             android:onClick="setTimer"
+            android:background="@drawable/round_red_button_background"
             android:id="@+id/setTimeButton" />
 
         <TextView
